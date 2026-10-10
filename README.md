@@ -36,5 +36,5 @@ Pushes code to gh-pages branch per http://www.mkdocs.org/user-guide/deploying-yo
         mkdocs gh-deploy
 
 3. View live site at [https://orcid.github.io/orcid-api-tutorial](https://orcid.github.io/orcid-api-tutorial)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
